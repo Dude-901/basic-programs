@@ -1,6 +1,8 @@
 # some constructors and their use in class object:   
 1. `__init__(self, ...)`
-2. `__str__(self, ...)`
+2. `__str__(self, ...)`  
+3. `__add__(self, other)`  
+4. `__sub__(self, other)`  
 
 * a class object that returns the string putput when an instance is called:  
 ```python
