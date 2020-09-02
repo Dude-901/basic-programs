@@ -1,2 +1,2 @@
 # basic-programs
-basic programs(Star pattern) in different languages for quick glance of syntax
+Giss of basic programs in different languages for quick glance of syntax.
